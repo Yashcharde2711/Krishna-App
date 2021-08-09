@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Feeling_Sinful">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="40dp"
+            android:layout_marginRight="40dp"
+            android:orientation="vertical">
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="SHLOKA 4.36"
+                android:textSize="30dp"
+                android:background="@color/teal_200"
+                android:textColor="@color/black"
+                android:layout_marginTop="20dp"
+                android:id="@+id/but1"
+                />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="SHLOKA 4.37"
+                android:textSize="30dp"
+                android:layout_marginTop="40dp"
+                android:background="@color/teal_200"
+                android:textColor="@color/black"
+                android:id="@+id/but2"
+                />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="SHLOKA 5.10"
+                android:textSize="30dp"
+                android:layout_marginTop="40dp"
+                android:background="@color/teal_200"
+                android:textColor="@color/black"
+                android:id="@+id/but3"
+                />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="SHLOKA 9.30"
+                android:textSize="30dp"
+                android:layout_marginTop="40dp"
+                android:background="@color/teal_200"
+                android:textColor="@color/black"
+                android:id="@+id/but4"
+                />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="SHLOKA 10.3"
+                android:textSize="30dp"
+                android:layout_marginTop="40dp"
+                android:background="@color/teal_200"
+                android:textColor="@color/black"
+                android:id="@+id/but5"
+                />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="SHLOKA 14.6"
+                android:textSize="30dp"
+                android:layout_marginTop="40dp"
+                android:background="@color/teal_200"
+                android:textColor="@color/black"
+                android:id="@+id/but6"
+                />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="SHLOKA 18.66"
+                android:textSize="30dp"
+                android:layout_marginTop="40dp"
+                android:background="@color/teal_200"
+                android:textColor="@color/black"
+                android:id="@+id/but7"
+                />
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
